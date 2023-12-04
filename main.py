@@ -9,7 +9,8 @@ print("Hello world3")
 print(module.data)
 
 def f(x):
-    return x + 3
+    print("hello")
+    return x + 4
 
 
 class H:
